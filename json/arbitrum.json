@@ -68399,6 +68399,34 @@
             "registeredAt": 1772929795,
             "updatedAt": 1772929795,
             "starred": false
+        },
+        {
+            "slug": "erc8004-agent-614",
+            "offer": "Zyfai Rebalancer Agent for 0x4C5467B2Cbc7a6AC111ab7db0023f4Cae765F78B",
+            "name": "Zyfai Rebalancer Agent for 0x4C5467B2Cbc7a6AC111ab7db0023f4Cae765F78B",
+            "description": "A ZK powered rebalancer agent that finds the best yet low risk yield opportunities for you across various bluechip protocols on multiple chains, such as Base, Arbitrum, Plasma, etc.",
+            "image": "https://www.zyf.ai/Zyfai-logo-png.png",
+            "active": true,
+            "supportedTrust": [
+                "crypto-economic",
+                "reputation"
+            ],
+            "registrationType": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+            "agentId": 614,
+            "owner": "0x4c5467b2cbc7a6ac111ab7db0023f4cae765f78b",
+            "agentURI": "ipfs://bafkreicf4uqwz7qkjqfpiyw3x2xynnv25ycqou6ndssjy7ebb2yadaxahu",
+            "agentURIType": "ipfs",
+            "agentWallet": "0x4c5467b2cbc7a6ac111ab7db0023f4cae765f78b",
+            "chain": "arbitrum",
+            "identityRegistry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+            "reputationRegistry": "0x8004BAa17C55a88189AE136b182e5fdA19dE9b63",
+            "totalFeedbackCount": 0,
+            "activeFeedbackCount": 0,
+            "averageRating": "0",
+            "rank": 615,
+            "registeredAt": 1772947260,
+            "updatedAt": 1772947260,
+            "starred": false
         }
     ]
 }
