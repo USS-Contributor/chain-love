@@ -68539,6 +68539,31 @@
             "registeredAt": 1772979468,
             "updatedAt": 1772979468,
             "starred": false
+        },
+        {
+            "slug": "erc8004-agent-619",
+            "offer": "xiaohan_fund",
+            "name": "xiaohan_fund",
+            "description": null,
+            "image": null,
+            "active": true,
+            "supportedTrust": null,
+            "registrationType": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+            "agentId": 619,
+            "owner": "0xd3f9dcd6011e1aa13eeb277d9ce5f2f7c9bb6070",
+            "agentURI": "data:application/json;base64,eyJ0eXBlIjoiaHR0cHM6Ly9laXBzLmV0aGVyZXVtLm9yZy9FSVBTL2VpcC04MDA0I3JlZ2lzdHJhdGlvbi12MSIsIm5hbWUiOiJ4aWFvaGFuX2Z1bmQiLCJkZXNjcmlwdGlvbiI6IiIsImltYWdlIjoiIiwic2VydmljZXMiOlt7Im5hbWUiOiJ0aWx0LXByb3RvY29sIiwiZW5kcG9pbnQiOiJodHRwczovL3RpbHRwcm90b2NvbC5jb20ifV0sInJlZ2lzdHJhdGlvbnMiOltdLCJhY3RpdmUiOnRydWV9",
+            "agentURIType": "data",
+            "agentWallet": "0xd3f9dcd6011e1aa13eeb277d9ce5f2f7c9bb6070",
+            "chain": "arbitrum",
+            "identityRegistry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+            "reputationRegistry": "0x8004BAa17C55a88189AE136b182e5fdA19dE9b63",
+            "totalFeedbackCount": 0,
+            "activeFeedbackCount": 0,
+            "averageRating": "0",
+            "rank": 620,
+            "registeredAt": 1772983513,
+            "updatedAt": 1772983513,
+            "starred": false
         }
     ]
 }
