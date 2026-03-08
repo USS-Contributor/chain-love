@@ -53437,15 +53437,12 @@
         },
         {
             "slug": "erc8004-agent-39",
-            "offer": "Zyfai Rebalancer Agent for 0x09bf0b74681Ade261658A971BC0Ea64Cfb2120a6",
-            "name": "Zyfai Rebalancer Agent for 0x09bf0b74681Ade261658A971BC0Ea64Cfb2120a6",
-            "description": "A ZK powered rebalancer agent that finds the best yet low risk yield opportunities for you across various bluechip protocols on multiple chains, such as Base, Arbitrum, Plasma, etc.",
-            "image": "https://www.zyf.ai/Zyfai-logo-png.png",
-            "active": true,
-            "supportedTrust": [
-                "crypto-economic",
-                "reputation"
-            ],
+            "offer": "Agent #39",
+            "name": null,
+            "description": null,
+            "image": null,
+            "active": null,
+            "supportedTrust": null,
             "registrationType": null,
             "agentId": 39,
             "owner": "0x09bf0b74681ade261658a971bc0ea64cfb2120a6",
