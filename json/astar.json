@@ -1823,7 +1823,7 @@
             "chain": "astar"
         },
         {
-            "slug": "arkham-shibuya",
+            "slug": "arkham-astar",
             "provider": "Arkham",
             "offer": null,
             "actionButtons": [
@@ -1846,10 +1846,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "footprint-analytics-enterprise-shibuya",
+            "slug": "footprint-analytics-enterprise-astar",
             "provider": "Footprint Analytics",
             "offer": null,
             "actionButtons": [
@@ -1869,10 +1869,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "sentry-aleno-shibuya",
+            "slug": "sentry-aleno-astar",
             "provider": "Sentry by Aleno",
             "offer": null,
             "actionButtons": [
@@ -1894,7 +1894,7 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
             "slug": "arkham-shiden",
@@ -1971,7 +1971,7 @@
             "chain": "shiden"
         },
         {
-            "slug": "arkham-astar",
+            "slug": "arkham-shibuya",
             "provider": "Arkham",
             "offer": null,
             "actionButtons": [
@@ -1994,10 +1994,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "footprint-analytics-enterprise-astar",
+            "slug": "footprint-analytics-enterprise-shibuya",
             "provider": "Footprint Analytics",
             "offer": null,
             "actionButtons": [
@@ -2017,10 +2017,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "sentry-aleno-astar",
+            "slug": "sentry-aleno-shibuya",
             "provider": "Sentry by Aleno",
             "offer": null,
             "actionButtons": [
@@ -2042,7 +2042,7 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         }
     ],
     "security": [
@@ -9469,7 +9469,7 @@
             "chain": "shiden"
         },
         {
-            "slug": "1rpc-enterprise-recent-state-shibuya",
+            "slug": "1rpc-enterprise-recent-state-astar",
             "provider": "1rpc",
             "offer": null,
             "actionButtons": [
@@ -9517,10 +9517,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "alchemy-enterprise-full-archive-shibuya",
+            "slug": "alchemy-enterprise-full-archive-astar",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -9575,10 +9575,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "alchemy-enterprise-recent-state-shibuya",
+            "slug": "alchemy-enterprise-recent-state-astar",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -9633,10 +9633,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "allthatnode-business-full-archive-shibuya",
+            "slug": "allthatnode-business-full-archive-astar",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -9689,10 +9689,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "allthatnode-business-recent-state-shibuya",
+            "slug": "allthatnode-business-recent-state-astar",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -9745,10 +9745,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "ankr-enterprise-full-archive-shibuya",
+            "slug": "ankr-enterprise-full-archive-astar",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -9798,10 +9798,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "ankr-enterprise-recent-state-shibuya",
+            "slug": "ankr-enterprise-recent-state-astar",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -9851,10 +9851,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "bitquery-commercial-indexer-shibuya",
+            "slug": "bitquery-commercial-indexer-astar",
             "provider": "Bitquery",
             "offer": null,
             "actionButtons": [
@@ -9907,10 +9907,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "blockdaemon-enterprise-full-archive-shibuya",
+            "slug": "blockdaemon-enterprise-full-archive-astar",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -9963,10 +9963,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "blockdaemon-enterprise-recent-state-shibuya",
+            "slug": "blockdaemon-enterprise-recent-state-astar",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -10019,10 +10019,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "blockpi-enterprise-full-archive-shibuya",
+            "slug": "blockpi-enterprise-full-archive-astar",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -10071,10 +10071,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "blockpi-enterprise-recent-state-shibuya",
+            "slug": "blockpi-enterprise-recent-state-astar",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -10119,10 +10119,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "blockvision-enterprise-full-archive-shibuya",
+            "slug": "blockvision-enterprise-full-archive-astar",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -10170,10 +10170,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "blockvision-enterprise-indexer-shibuya",
+            "slug": "blockvision-enterprise-indexer-astar",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -10221,10 +10221,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "chainbase-enterprise-custom-shibuya",
+            "slug": "chainbase-enterprise-custom-astar",
             "provider": "Chainbase",
             "offer": null,
             "actionButtons": [
@@ -10282,10 +10282,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "chainstack-enterprise-full-archive-shibuya",
+            "slug": "chainstack-enterprise-full-archive-astar",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -10338,10 +10338,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "chainstack-enterprise-recent-state-shibuya",
+            "slug": "chainstack-enterprise-recent-state-astar",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -10393,10 +10393,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "crypto-apis-enterprise-full-archive-shibuya",
+            "slug": "crypto-apis-enterprise-full-archive-astar",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -10448,10 +10448,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "crypto-apis-enterprise-recent-state-shibuya",
+            "slug": "crypto-apis-enterprise-recent-state-astar",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -10503,10 +10503,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "drpc-enterprise-full-archive-shibuya",
+            "slug": "drpc-enterprise-full-archive-astar",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -10559,10 +10559,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "drpc-enterprise-recent-state-shibuya",
+            "slug": "drpc-enterprise-recent-state-astar",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -10615,10 +10615,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "dwellir-enterprise-full-archive-shibuya",
+            "slug": "dwellir-enterprise-full-archive-astar",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -10659,10 +10659,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "dwellir-enterprise-recent-state-shibuya",
+            "slug": "dwellir-enterprise-recent-state-astar",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -10703,10 +10703,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "envio-dedicated-indexer-shibuya",
+            "slug": "envio-dedicated-indexer-astar",
             "provider": "Envio",
             "offer": null,
             "actionButtons": null,
@@ -10764,10 +10764,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "getblock-enterprise-full-archive-shibuya",
+            "slug": "getblock-enterprise-full-archive-astar",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -10818,10 +10818,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "getblock-enterprise-recent-state-shibuya",
+            "slug": "getblock-enterprise-recent-state-astar",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -10872,10 +10872,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "ghostgraph-enterprise-indexer-shibuya",
+            "slug": "ghostgraph-enterprise-indexer-astar",
             "provider": "GhostGraph",
             "offer": null,
             "actionButtons": null,
@@ -10923,10 +10923,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "ginco-enterprise-indexer-shibuya",
+            "slug": "ginco-enterprise-indexer-astar",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -10977,10 +10977,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "ginco-enterprise-recent-state-shibuya",
+            "slug": "ginco-enterprise-recent-state-astar",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -11031,10 +11031,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "goldrush-enterprise-indexer-shibuya",
+            "slug": "goldrush-enterprise-indexer-astar",
             "provider": "Covalent",
             "offer": null,
             "actionButtons": null,
@@ -11074,10 +11074,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "goldsky-enterprise-indexer-shibuya",
+            "slug": "goldsky-enterprise-indexer-astar",
             "provider": "Goldsky",
             "offer": null,
             "actionButtons": null,
@@ -11129,10 +11129,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "indexing-co-enterprise-indexer-shibuya",
+            "slug": "indexing-co-enterprise-indexer-astar",
             "provider": "The Indexing Company",
             "offer": null,
             "actionButtons": [
@@ -11189,10 +11189,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "infstones-enterprise-full-archive-shibuya",
+            "slug": "infstones-enterprise-full-archive-astar",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -11247,10 +11247,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "infstones-enterprise-recent-state-shibuya",
+            "slug": "infstones-enterprise-recent-state-astar",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -11305,10 +11305,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "infura-enterprise-full-archive-shibuya",
+            "slug": "infura-enterprise-full-archive-astar",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -11355,10 +11355,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "infura-enterprise-recent-state-shibuya",
+            "slug": "infura-enterprise-recent-state-astar",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -11405,10 +11405,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "mobula-enterprise-indexer-shibuya",
+            "slug": "mobula-enterprise-indexer-astar",
             "provider": "Mobula",
             "offer": null,
             "actionButtons": null,
@@ -11454,10 +11454,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "moralis-enterprise-full-archive-shibuya",
+            "slug": "moralis-enterprise-full-archive-astar",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -11510,10 +11510,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "moralis-indexer-enterprise-shibuya",
+            "slug": "moralis-indexer-enterprise-astar",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -11567,10 +11567,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "node-real-semita-shibuya",
+            "slug": "node-real-semita-astar",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -11628,10 +11628,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "node-real-semita-full-archive-shibuya",
+            "slug": "node-real-semita-full-archive-astar",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -11689,10 +11689,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "node-real-semita-recent-state-shibuya",
+            "slug": "node-real-semita-recent-state-astar",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -11750,10 +11750,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "nownodes-custom-recent-state-shibuya",
+            "slug": "nownodes-custom-recent-state-astar",
             "provider": "Nownodes",
             "offer": null,
             "actionButtons": [
@@ -11796,10 +11796,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "omnia-enterprise-recent-state-shibuya",
+            "slug": "omnia-enterprise-recent-state-astar",
             "provider": "Omnia",
             "offer": null,
             "actionButtons": [
@@ -11852,10 +11852,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "onfinality-enterprise-full-archive-shibuya",
+            "slug": "onfinality-enterprise-full-archive-astar",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -11905,10 +11905,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "onfinality-enterprise-trace-shibuya",
+            "slug": "onfinality-enterprise-trace-astar",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -11958,10 +11958,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "onfinality-partner-plan-indexer-shibuya",
+            "slug": "onfinality-partner-plan-indexer-astar",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -12011,10 +12011,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "quicknode-enterprise-full-archive-shibuya",
+            "slug": "quicknode-enterprise-full-archive-astar",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -12070,10 +12070,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "quicknode-enterprise-recent-state-shibuya",
+            "slug": "quicknode-enterprise-recent-state-astar",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -12129,10 +12129,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "radiumblock-enterprise-recent-state-shibuya",
+            "slug": "radiumblock-enterprise-recent-state-astar",
             "provider": "RadiumBlock",
             "offer": null,
             "actionButtons": [
@@ -12173,10 +12173,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "rpcfast-enterprise-full-archive-shibuya",
+            "slug": "rpcfast-enterprise-full-archive-astar",
             "provider": "RPCFast",
             "offer": null,
             "actionButtons": [
@@ -12224,10 +12224,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "tatum-business-full-archive-shibuya",
+            "slug": "tatum-business-full-archive-astar",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -12279,10 +12279,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "tatum-business-recent-state-shibuya",
+            "slug": "tatum-business-recent-state-astar",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -12334,10 +12334,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "tenderly-enterprise-recent-state-shibuya",
+            "slug": "tenderly-enterprise-recent-state-astar",
             "provider": "Tenderly",
             "offer": null,
             "actionButtons": [
@@ -12384,10 +12384,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "thegraph-enterprise-indexer-shibuya",
+            "slug": "thegraph-enterprise-indexer-astar",
             "provider": "The Graph",
             "offer": null,
             "actionButtons": null,
@@ -12428,10 +12428,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "thirdweb-enterprise-indexer-shibuya",
+            "slug": "thirdweb-enterprise-indexer-astar",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": null,
@@ -12480,10 +12480,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "thirdweb-enterprise-recent-state-shibuya",
+            "slug": "thirdweb-enterprise-recent-state-astar",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": [
@@ -12518,10 +12518,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "validation-cloud-private-full-archive-shibuya",
+            "slug": "validation-cloud-private-full-archive-astar",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -12569,10 +12569,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "validation-cloud-private-recent-state-shibuya",
+            "slug": "validation-cloud-private-recent-state-astar",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -12620,10 +12620,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "watchdata-custom-full-archive-shibuya",
+            "slug": "watchdata-custom-full-archive-astar",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -12670,10 +12670,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
-            "slug": "watchdata-custom-recent-state-shibuya",
+            "slug": "watchdata-custom-recent-state-astar",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -12720,7 +12720,7 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "shibuya"
+            "chain": "astar"
         },
         {
             "slug": "1rpc-enterprise-recent-state-shiden",
@@ -15977,7 +15977,7 @@
             "chain": "shiden"
         },
         {
-            "slug": "1rpc-enterprise-recent-state-astar",
+            "slug": "1rpc-enterprise-recent-state-shibuya",
             "provider": "1rpc",
             "offer": null,
             "actionButtons": [
@@ -16025,10 +16025,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "alchemy-enterprise-full-archive-astar",
+            "slug": "alchemy-enterprise-full-archive-shibuya",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -16083,10 +16083,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "alchemy-enterprise-recent-state-astar",
+            "slug": "alchemy-enterprise-recent-state-shibuya",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -16141,10 +16141,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "allthatnode-business-full-archive-astar",
+            "slug": "allthatnode-business-full-archive-shibuya",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -16197,10 +16197,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "allthatnode-business-recent-state-astar",
+            "slug": "allthatnode-business-recent-state-shibuya",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -16253,10 +16253,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "ankr-enterprise-full-archive-astar",
+            "slug": "ankr-enterprise-full-archive-shibuya",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -16306,10 +16306,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "ankr-enterprise-recent-state-astar",
+            "slug": "ankr-enterprise-recent-state-shibuya",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -16359,10 +16359,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "bitquery-commercial-indexer-astar",
+            "slug": "bitquery-commercial-indexer-shibuya",
             "provider": "Bitquery",
             "offer": null,
             "actionButtons": [
@@ -16415,10 +16415,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "blockdaemon-enterprise-full-archive-astar",
+            "slug": "blockdaemon-enterprise-full-archive-shibuya",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -16471,10 +16471,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "blockdaemon-enterprise-recent-state-astar",
+            "slug": "blockdaemon-enterprise-recent-state-shibuya",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -16527,10 +16527,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "blockpi-enterprise-full-archive-astar",
+            "slug": "blockpi-enterprise-full-archive-shibuya",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -16579,10 +16579,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "blockpi-enterprise-recent-state-astar",
+            "slug": "blockpi-enterprise-recent-state-shibuya",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -16627,10 +16627,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "blockvision-enterprise-full-archive-astar",
+            "slug": "blockvision-enterprise-full-archive-shibuya",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -16678,10 +16678,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "blockvision-enterprise-indexer-astar",
+            "slug": "blockvision-enterprise-indexer-shibuya",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -16729,10 +16729,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "chainbase-enterprise-custom-astar",
+            "slug": "chainbase-enterprise-custom-shibuya",
             "provider": "Chainbase",
             "offer": null,
             "actionButtons": [
@@ -16790,10 +16790,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "chainstack-enterprise-full-archive-astar",
+            "slug": "chainstack-enterprise-full-archive-shibuya",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -16846,10 +16846,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "chainstack-enterprise-recent-state-astar",
+            "slug": "chainstack-enterprise-recent-state-shibuya",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -16901,10 +16901,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "crypto-apis-enterprise-full-archive-astar",
+            "slug": "crypto-apis-enterprise-full-archive-shibuya",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -16956,10 +16956,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "crypto-apis-enterprise-recent-state-astar",
+            "slug": "crypto-apis-enterprise-recent-state-shibuya",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -17011,10 +17011,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "drpc-enterprise-full-archive-astar",
+            "slug": "drpc-enterprise-full-archive-shibuya",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -17067,10 +17067,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "drpc-enterprise-recent-state-astar",
+            "slug": "drpc-enterprise-recent-state-shibuya",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -17123,10 +17123,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "dwellir-enterprise-full-archive-astar",
+            "slug": "dwellir-enterprise-full-archive-shibuya",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -17167,10 +17167,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "dwellir-enterprise-recent-state-astar",
+            "slug": "dwellir-enterprise-recent-state-shibuya",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -17211,10 +17211,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "envio-dedicated-indexer-astar",
+            "slug": "envio-dedicated-indexer-shibuya",
             "provider": "Envio",
             "offer": null,
             "actionButtons": null,
@@ -17272,10 +17272,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "getblock-enterprise-full-archive-astar",
+            "slug": "getblock-enterprise-full-archive-shibuya",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -17326,10 +17326,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "getblock-enterprise-recent-state-astar",
+            "slug": "getblock-enterprise-recent-state-shibuya",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -17380,10 +17380,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "ghostgraph-enterprise-indexer-astar",
+            "slug": "ghostgraph-enterprise-indexer-shibuya",
             "provider": "GhostGraph",
             "offer": null,
             "actionButtons": null,
@@ -17431,10 +17431,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "ginco-enterprise-indexer-astar",
+            "slug": "ginco-enterprise-indexer-shibuya",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -17485,10 +17485,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "ginco-enterprise-recent-state-astar",
+            "slug": "ginco-enterprise-recent-state-shibuya",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -17539,10 +17539,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "goldrush-enterprise-indexer-astar",
+            "slug": "goldrush-enterprise-indexer-shibuya",
             "provider": "Covalent",
             "offer": null,
             "actionButtons": null,
@@ -17582,10 +17582,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "goldsky-enterprise-indexer-astar",
+            "slug": "goldsky-enterprise-indexer-shibuya",
             "provider": "Goldsky",
             "offer": null,
             "actionButtons": null,
@@ -17637,10 +17637,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "indexing-co-enterprise-indexer-astar",
+            "slug": "indexing-co-enterprise-indexer-shibuya",
             "provider": "The Indexing Company",
             "offer": null,
             "actionButtons": [
@@ -17697,10 +17697,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "infstones-enterprise-full-archive-astar",
+            "slug": "infstones-enterprise-full-archive-shibuya",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -17755,10 +17755,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "infstones-enterprise-recent-state-astar",
+            "slug": "infstones-enterprise-recent-state-shibuya",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -17813,10 +17813,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "infura-enterprise-full-archive-astar",
+            "slug": "infura-enterprise-full-archive-shibuya",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -17863,10 +17863,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "infura-enterprise-recent-state-astar",
+            "slug": "infura-enterprise-recent-state-shibuya",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -17913,10 +17913,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "mobula-enterprise-indexer-astar",
+            "slug": "mobula-enterprise-indexer-shibuya",
             "provider": "Mobula",
             "offer": null,
             "actionButtons": null,
@@ -17962,10 +17962,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "moralis-enterprise-full-archive-astar",
+            "slug": "moralis-enterprise-full-archive-shibuya",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -18018,10 +18018,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "moralis-indexer-enterprise-astar",
+            "slug": "moralis-indexer-enterprise-shibuya",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -18075,10 +18075,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "node-real-semita-astar",
+            "slug": "node-real-semita-shibuya",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -18136,10 +18136,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "node-real-semita-full-archive-astar",
+            "slug": "node-real-semita-full-archive-shibuya",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -18197,10 +18197,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "node-real-semita-recent-state-astar",
+            "slug": "node-real-semita-recent-state-shibuya",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -18258,10 +18258,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "nownodes-custom-recent-state-astar",
+            "slug": "nownodes-custom-recent-state-shibuya",
             "provider": "Nownodes",
             "offer": null,
             "actionButtons": [
@@ -18304,10 +18304,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "omnia-enterprise-recent-state-astar",
+            "slug": "omnia-enterprise-recent-state-shibuya",
             "provider": "Omnia",
             "offer": null,
             "actionButtons": [
@@ -18360,10 +18360,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "onfinality-enterprise-full-archive-astar",
+            "slug": "onfinality-enterprise-full-archive-shibuya",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -18413,10 +18413,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "onfinality-enterprise-trace-astar",
+            "slug": "onfinality-enterprise-trace-shibuya",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -18466,10 +18466,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "onfinality-partner-plan-indexer-astar",
+            "slug": "onfinality-partner-plan-indexer-shibuya",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -18519,10 +18519,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "quicknode-enterprise-full-archive-astar",
+            "slug": "quicknode-enterprise-full-archive-shibuya",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -18578,10 +18578,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "quicknode-enterprise-recent-state-astar",
+            "slug": "quicknode-enterprise-recent-state-shibuya",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -18637,10 +18637,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "radiumblock-enterprise-recent-state-astar",
+            "slug": "radiumblock-enterprise-recent-state-shibuya",
             "provider": "RadiumBlock",
             "offer": null,
             "actionButtons": [
@@ -18681,10 +18681,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "rpcfast-enterprise-full-archive-astar",
+            "slug": "rpcfast-enterprise-full-archive-shibuya",
             "provider": "RPCFast",
             "offer": null,
             "actionButtons": [
@@ -18732,10 +18732,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "tatum-business-full-archive-astar",
+            "slug": "tatum-business-full-archive-shibuya",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -18787,10 +18787,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "tatum-business-recent-state-astar",
+            "slug": "tatum-business-recent-state-shibuya",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -18842,10 +18842,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "tenderly-enterprise-recent-state-astar",
+            "slug": "tenderly-enterprise-recent-state-shibuya",
             "provider": "Tenderly",
             "offer": null,
             "actionButtons": [
@@ -18892,10 +18892,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "thegraph-enterprise-indexer-astar",
+            "slug": "thegraph-enterprise-indexer-shibuya",
             "provider": "The Graph",
             "offer": null,
             "actionButtons": null,
@@ -18936,10 +18936,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "thirdweb-enterprise-indexer-astar",
+            "slug": "thirdweb-enterprise-indexer-shibuya",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": null,
@@ -18988,10 +18988,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "thirdweb-enterprise-recent-state-astar",
+            "slug": "thirdweb-enterprise-recent-state-shibuya",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": [
@@ -19026,10 +19026,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "validation-cloud-private-full-archive-astar",
+            "slug": "validation-cloud-private-full-archive-shibuya",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -19077,10 +19077,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "validation-cloud-private-recent-state-astar",
+            "slug": "validation-cloud-private-recent-state-shibuya",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -19128,10 +19128,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "watchdata-custom-full-archive-astar",
+            "slug": "watchdata-custom-full-archive-shibuya",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -19178,10 +19178,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         },
         {
-            "slug": "watchdata-custom-recent-state-astar",
+            "slug": "watchdata-custom-recent-state-shibuya",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -19228,7 +19228,7 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "astar"
+            "chain": "shibuya"
         }
     ],
     "ramps": [
@@ -20156,6 +20156,173 @@
             "chain": "shibuya"
         }
     ],
+    "mcpservers": [
+        {
+            "slug": "3xpl-mcp",
+            "provider": "Exekerey",
+            "offer": null,
+            "actionButtons": [
+                "[Website](https://github.com/exekerey/3xpl-mcp)",
+                "[Docs](https://github.com/exekerey/3xpl-mcp#readme)"
+            ],
+            "serverType": "explorers",
+            "hostingType": "Self-hosted",
+            "transportType": "stdio",
+            "mcpEndpoint": null,
+            "authType": "None",
+            "x402": false,
+            "onChainWrite": false,
+            "agentSkills": [
+                "explorer-query",
+                "transaction-lookup",
+                "address-lookup"
+            ],
+            "tag": [
+                "block explorer",
+                "multi-chain",
+                "on-chain data",
+                "AI agents"
+            ],
+            "description": "MCP server for querying blockchain explorer data across multiple blockchains via the 3xpl API",
+            "planType": "Free",
+            "planName": null,
+            "price": "$0",
+            "trial": false,
+            "starred": false
+        },
+        {
+            "slug": "cryptoapis-mcp-hub",
+            "provider": "CryptoAPIs",
+            "offer": null,
+            "actionButtons": [
+                "[Website](https://github.com/CryptoAPIs-io/cryptoapis-mcp-hub)",
+                "[Docs](https://github.com/CryptoAPIs-io/cryptoapis-mcp-hub#readme)"
+            ],
+            "serverType": "apis",
+            "hostingType": "Self-hosted",
+            "transportType": "stdio",
+            "mcpEndpoint": null,
+            "authType": "API Key",
+            "x402": false,
+            "onChainWrite": false,
+            "agentSkills": [
+                "blockchain-data-query",
+                "address-monitoring",
+                "transaction-lookup"
+            ],
+            "tag": [
+                "infrastructure",
+                "multi-chain",
+                "APIs",
+                "AI agents"
+            ],
+            "description": "CryptoAPIs MCP hub providing blockchain data tools for AI agents across multiple networks",
+            "planType": "Free",
+            "planName": null,
+            "price": "$0",
+            "trial": false,
+            "starred": false
+        },
+        {
+            "slug": "evm-mcp-server",
+            "provider": "MCP.direct",
+            "offer": null,
+            "actionButtons": [
+                "[Website](https://github.com/mcpdotdirect/evm-mcp-server)",
+                "[Docs](https://github.com/mcpdotdirect/evm-mcp-server#readme)"
+            ],
+            "serverType": "smart-contract",
+            "hostingType": "Self-hosted",
+            "transportType": "stdio",
+            "mcpEndpoint": null,
+            "authType": "API Key",
+            "x402": false,
+            "onChainWrite": true,
+            "agentSkills": [
+                "evm-read",
+                "transaction-send",
+                "contract-interaction"
+            ],
+            "tag": [
+                "EVM",
+                "multi-chain",
+                "smart contracts",
+                "AI agents"
+            ],
+            "description": "MCP server that provides tools for interacting with EVM networks",
+            "planType": "Free",
+            "planName": null,
+            "price": "$0",
+            "trial": false,
+            "starred": false
+        },
+        {
+            "slug": "universal-crypto-mcp",
+            "provider": "Nirholas",
+            "offer": null,
+            "actionButtons": [
+                "[Website](https://github.com/nirholas/universal-crypto-mcp)",
+                "[Docs](https://github.com/nirholas/universal-crypto-mcp#readme)"
+            ],
+            "serverType": "services",
+            "hostingType": "Self-hosted",
+            "transportType": "stdio",
+            "mcpEndpoint": null,
+            "authType": "API Key",
+            "x402": false,
+            "onChainWrite": true,
+            "agentSkills": [
+                "swap",
+                "bridge",
+                "staking",
+                "lending"
+            ],
+            "tag": [
+                "EVM",
+                "DeFi",
+                "multi-chain",
+                "AI agents"
+            ],
+            "description": "Universal MCP server for AI agents to interact with multiple EVM blockchains via plugins",
+            "planType": "Free",
+            "planName": null,
+            "price": "$0",
+            "trial": false,
+            "starred": false
+        },
+        {
+            "slug": "wallet-inspector-mcp",
+            "provider": "KukaPay",
+            "offer": null,
+            "actionButtons": [
+                "[Website](https://github.com/kukapay/wallet-inspector-mcp)",
+                "[Docs](https://github.com/kukapay/wallet-inspector-mcp#readme)"
+            ],
+            "serverType": "analytics",
+            "hostingType": "Self-hosted",
+            "transportType": "stdio",
+            "mcpEndpoint": null,
+            "authType": "None",
+            "x402": false,
+            "onChainWrite": false,
+            "agentSkills": [
+                "wallet-balance-inspection",
+                "wallet-activity-inspection"
+            ],
+            "tag": [
+                "wallet analytics",
+                "EVM",
+                "Solana",
+                "AI agents"
+            ],
+            "description": "MCP server for inspecting wallet balances and on-chain activity across major EVM chains and Solana",
+            "planType": "Free",
+            "planName": null,
+            "price": "$0",
+            "trial": false,
+            "starred": false
+        }
+    ],
     "storages": [
         {
             "slug": "ipfs",
@@ -20459,6 +20626,27 @@
             "additionalNotes",
             "tag"
         ],
+        "mcpservers": [
+            "slug",
+            "provider",
+            "offer",
+            "actionButtons",
+            "serverType",
+            "hostingType",
+            "transportType",
+            "mcpEndpoint",
+            "authType",
+            "x402",
+            "onChainWrite",
+            "agentSkills",
+            "tag",
+            "description",
+            "planType",
+            "planName",
+            "price",
+            "trial",
+            "starred"
+        ],
         "storages": [
             "slug",
             "provider",
@@ -20505,6 +20693,12 @@
                 "label": "Services",
                 "icon": "lucide:ChartNetwork",
                 "description": "Development platforms, tools, and services for developers."
+            },
+            "mcpservers": {
+                "key": "mcpservers",
+                "label": "MCP Servers",
+                "icon": "lucide:Cpu",
+                "description": "Model Context Protocol servers for AI-agent interactions with Web3 data and on-chain actions."
             },
             "sdks": {
                 "key": "sdks",
@@ -21475,6 +21669,94 @@
                 "pinning": null,
                 "cellType": "arrayPopover",
                 "group": "pricing"
+            },
+            "serverType": {
+                "key": "serverType",
+                "label": "Server Type",
+                "icon": "lucide:Boxes",
+                "description": "Primary MCP server category aligned with Chain.Love category taxonomy.",
+                "filter": "searchableMultiSelect",
+                "sorting": "string",
+                "pinning": null,
+                "cellType": null,
+                "group": "serviceDetails"
+            },
+            "hostingType": {
+                "key": "hostingType",
+                "label": "Hosting Type",
+                "icon": "lucide:CloudCog",
+                "description": "Where the MCP server runs (Remote, Self-hosted, or Both).",
+                "filter": "select",
+                "sorting": "string",
+                "pinning": null,
+                "cellType": null,
+                "group": "technicalDetails"
+            },
+            "transportType": {
+                "key": "transportType",
+                "label": "Transport Type",
+                "icon": "lucide:Network",
+                "description": "MCP transport protocol used by the server (stdio, SSE, Streamable HTTP).",
+                "filter": "searchableMultiSelect",
+                "sorting": "string",
+                "pinning": null,
+                "cellType": null,
+                "group": "technicalDetails"
+            },
+            "mcpEndpoint": {
+                "key": "mcpEndpoint",
+                "label": "MCP Endpoint",
+                "icon": "lucide:Globe",
+                "description": "Remote MCP endpoint URL when hostingType is Remote or Both.",
+                "filter": "searchableMultiSelect",
+                "sorting": "string",
+                "pinning": null,
+                "cellType": "address",
+                "group": "technicalDetails"
+            },
+            "authType": {
+                "key": "authType",
+                "label": "Auth Type",
+                "icon": "lucide:KeyRound",
+                "description": "Authentication method required by the MCP server.",
+                "filter": "searchableMultiSelect",
+                "sorting": "string",
+                "pinning": null,
+                "cellType": null,
+                "group": "security"
+            },
+            "x402": {
+                "key": "x402",
+                "label": "x402",
+                "icon": "lucide:BadgeDollarSign",
+                "description": "Whether the MCP server supports x402 payments.",
+                "filter": "select",
+                "sorting": "boolean",
+                "pinning": null,
+                "cellType": null,
+                "group": "pricing"
+            },
+            "onChainWrite": {
+                "key": "onChainWrite",
+                "label": "On-Chain Write",
+                "icon": "lucide:PenSquare",
+                "description": "Whether MCP tools can execute state-changing on-chain actions.",
+                "filter": "select",
+                "sorting": "boolean",
+                "pinning": null,
+                "cellType": null,
+                "group": "capabilities"
+            },
+            "agentSkills": {
+                "key": "agentSkills",
+                "label": "Agent Skills",
+                "icon": "lucide:BrainCircuit",
+                "description": "Capabilities exposed to AI agents (MVP free-form strings).",
+                "filter": "searchableMultiSelect",
+                "sorting": "arrayLength",
+                "pinning": null,
+                "cellType": "arrayPopover",
+                "group": "capabilities"
             },
             "agentId": {
                 "key": "agentId",
@@ -25797,6 +26079,101 @@
                 "tag": null,
                 "categories": [
                     "explorers"
+                ]
+            },
+            "exekerey": {
+                "slug": "exekerey",
+                "name": "Exekerey",
+                "logoPath": "exekerey.png",
+                "description": "Builds multi-chain blockchain explorer MCP integrations such as 3xpl MCP",
+                "website": "https://github.com/exekerey/3xpl-mcp",
+                "docs": "https://github.com/exekerey/3xpl-mcp#readme",
+                "x": null,
+                "github": "exekerey/3xpl-mcp",
+                "discord": null,
+                "telegram": null,
+                "linkedin": null,
+                "supportEmail": null,
+                "starred": false,
+                "tag": null,
+                "categories": [
+                    "mcpservers"
+                ]
+            },
+            "cryptoapis-io": {
+                "slug": "cryptoapis-io",
+                "name": "CryptoAPIs",
+                "logoPath": "cryptoapis-io.png",
+                "description": "Provides blockchain infrastructure APIs and MCP servers for AI agents across multiple networks",
+                "website": "https://github.com/CryptoAPIs-io/cryptoapis-mcp-hub",
+                "docs": "https://github.com/CryptoAPIs-io/cryptoapis-mcp-hub#readme",
+                "x": null,
+                "github": "CryptoAPIs-io/cryptoapis-mcp-hub",
+                "discord": null,
+                "telegram": null,
+                "linkedin": null,
+                "supportEmail": null,
+                "starred": false,
+                "tag": null,
+                "categories": [
+                    "mcpservers"
+                ]
+            },
+            "mcpdotdirect": {
+                "slug": "mcpdotdirect",
+                "name": "MCP.direct",
+                "logoPath": "mcpdotdirect.png",
+                "description": "Builds EVM-focused MCP servers that expose blockchain interaction tools for AI agents",
+                "website": "https://github.com/mcpdotdirect/evm-mcp-server",
+                "docs": "https://github.com/mcpdotdirect/evm-mcp-server#readme",
+                "x": null,
+                "github": "mcpdotdirect/evm-mcp-server",
+                "discord": null,
+                "telegram": null,
+                "linkedin": null,
+                "supportEmail": null,
+                "starred": false,
+                "tag": null,
+                "categories": [
+                    "mcpservers"
+                ]
+            },
+            "nirholas": {
+                "slug": "nirholas",
+                "name": "Nirholas",
+                "logoPath": "nirholas.png",
+                "description": "Builds Web3 MCP tooling including multi-chain crypto interaction servers and contract interfaces",
+                "website": "https://github.com/nirholas/universal-crypto-mcp",
+                "docs": "https://github.com/nirholas/universal-crypto-mcp#readme",
+                "x": "nirholas",
+                "github": "nirholas/universal-crypto-mcp",
+                "discord": null,
+                "telegram": null,
+                "linkedin": null,
+                "supportEmail": null,
+                "starred": false,
+                "tag": null,
+                "categories": [
+                    "mcpservers"
+                ]
+            },
+            "kukapay": {
+                "slug": "kukapay",
+                "name": "KukaPay",
+                "logoPath": "kukapay.png",
+                "description": "Builds AI-agent MCP tools for crypto workflows including wallet inspection and Solana integrations",
+                "website": "https://github.com/kukapay/wallet-inspector-mcp",
+                "docs": "https://github.com/kukapay/wallet-inspector-mcp#readme",
+                "x": null,
+                "github": "kukapay/wallet-inspector-mcp",
+                "discord": null,
+                "telegram": null,
+                "linkedin": null,
+                "supportEmail": null,
+                "starred": false,
+                "tag": null,
+                "categories": [
+                    "mcpservers"
                 ]
             },
             "ipfs": {
