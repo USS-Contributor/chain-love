@@ -46696,7 +46696,7 @@
                 "filter": "range",
                 "sorting": "string",
                 "pinning": null,
-                "cellType": null
+                "cellType": "numericRange"
             },
             "registeredAt": {
                 "key": "registeredAt",
