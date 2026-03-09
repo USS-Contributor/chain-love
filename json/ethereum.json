@@ -6097,7 +6097,7 @@
             "chain": "mainnet"
         },
         {
-            "slug": "arkham-hoodi",
+            "slug": "arkham-testnet",
             "provider": "Arkham",
             "offer": null,
             "actionButtons": [
@@ -6120,10 +6120,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "footprint-analytics-enterprise-hoodi",
+            "slug": "footprint-analytics-enterprise-testnet",
             "provider": "Footprint Analytics",
             "offer": null,
             "actionButtons": [
@@ -6143,10 +6143,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "sentry-aleno-hoodi",
+            "slug": "sentry-aleno-testnet",
             "provider": "Sentry by Aleno",
             "offer": null,
             "actionButtons": [
@@ -6168,7 +6168,7 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
             "slug": "arkham-sepolia",
@@ -6319,7 +6319,7 @@
             "chain": "mainnet"
         },
         {
-            "slug": "arkham-testnet",
+            "slug": "arkham-hoodi",
             "provider": "Arkham",
             "offer": null,
             "actionButtons": [
@@ -6342,10 +6342,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "footprint-analytics-enterprise-testnet",
+            "slug": "footprint-analytics-enterprise-hoodi",
             "provider": "Footprint Analytics",
             "offer": null,
             "actionButtons": [
@@ -6365,10 +6365,10 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "sentry-aleno-testnet",
+            "slug": "sentry-aleno-hoodi",
             "provider": "Sentry by Aleno",
             "offer": null,
             "actionButtons": [
@@ -6390,7 +6390,7 @@
             "planType": "Enterprise",
             "starred": false,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         }
     ],
     "security": [
@@ -30061,7 +30061,7 @@
             "chain": "mainnet"
         },
         {
-            "slug": "1rpc-enterprise-recent-state-hoodi",
+            "slug": "1rpc-enterprise-recent-state-testnet",
             "provider": "1rpc",
             "offer": null,
             "actionButtons": [
@@ -30109,10 +30109,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "alchemy-enterprise-full-archive-hoodi",
+            "slug": "alchemy-enterprise-full-archive-testnet",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -30167,10 +30167,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "alchemy-enterprise-recent-state-hoodi",
+            "slug": "alchemy-enterprise-recent-state-testnet",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -30225,10 +30225,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "allthatnode-business-full-archive-hoodi",
+            "slug": "allthatnode-business-full-archive-testnet",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -30281,10 +30281,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "allthatnode-business-recent-state-hoodi",
+            "slug": "allthatnode-business-recent-state-testnet",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -30337,10 +30337,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "ankr-enterprise-full-archive-hoodi",
+            "slug": "ankr-enterprise-full-archive-testnet",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -30390,10 +30390,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "ankr-enterprise-recent-state-hoodi",
+            "slug": "ankr-enterprise-recent-state-testnet",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -30443,10 +30443,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "bitquery-commercial-indexer-hoodi",
+            "slug": "bitquery-commercial-indexer-testnet",
             "provider": "Bitquery",
             "offer": null,
             "actionButtons": [
@@ -30499,10 +30499,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "blockdaemon-enterprise-full-archive-hoodi",
+            "slug": "blockdaemon-enterprise-full-archive-testnet",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -30555,10 +30555,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "blockdaemon-enterprise-recent-state-hoodi",
+            "slug": "blockdaemon-enterprise-recent-state-testnet",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -30611,10 +30611,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "blockpi-enterprise-full-archive-hoodi",
+            "slug": "blockpi-enterprise-full-archive-testnet",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -30663,10 +30663,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "blockpi-enterprise-recent-state-hoodi",
+            "slug": "blockpi-enterprise-recent-state-testnet",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -30711,10 +30711,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "blockvision-enterprise-full-archive-hoodi",
+            "slug": "blockvision-enterprise-full-archive-testnet",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -30762,10 +30762,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "blockvision-enterprise-indexer-hoodi",
+            "slug": "blockvision-enterprise-indexer-testnet",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -30813,10 +30813,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "chainbase-enterprise-custom-hoodi",
+            "slug": "chainbase-enterprise-custom-testnet",
             "provider": "Chainbase",
             "offer": null,
             "actionButtons": [
@@ -30874,10 +30874,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "chainstack-enterprise-full-archive-hoodi",
+            "slug": "chainstack-enterprise-full-archive-testnet",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -30930,10 +30930,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "chainstack-enterprise-recent-state-hoodi",
+            "slug": "chainstack-enterprise-recent-state-testnet",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -30985,10 +30985,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "crypto-apis-enterprise-full-archive-hoodi",
+            "slug": "crypto-apis-enterprise-full-archive-testnet",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -31040,10 +31040,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "crypto-apis-enterprise-recent-state-hoodi",
+            "slug": "crypto-apis-enterprise-recent-state-testnet",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -31095,10 +31095,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "drpc-enterprise-full-archive-hoodi",
+            "slug": "drpc-enterprise-full-archive-testnet",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -31151,10 +31151,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "drpc-enterprise-recent-state-hoodi",
+            "slug": "drpc-enterprise-recent-state-testnet",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -31207,10 +31207,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "dwellir-enterprise-full-archive-hoodi",
+            "slug": "dwellir-enterprise-full-archive-testnet",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -31251,10 +31251,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "dwellir-enterprise-recent-state-hoodi",
+            "slug": "dwellir-enterprise-recent-state-testnet",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -31295,10 +31295,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "envio-dedicated-indexer-hoodi",
+            "slug": "envio-dedicated-indexer-testnet",
             "provider": "Envio",
             "offer": null,
             "actionButtons": null,
@@ -31356,10 +31356,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "getblock-enterprise-full-archive-hoodi",
+            "slug": "getblock-enterprise-full-archive-testnet",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -31410,10 +31410,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "getblock-enterprise-recent-state-hoodi",
+            "slug": "getblock-enterprise-recent-state-testnet",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -31464,10 +31464,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "ghostgraph-enterprise-indexer-hoodi",
+            "slug": "ghostgraph-enterprise-indexer-testnet",
             "provider": "GhostGraph",
             "offer": null,
             "actionButtons": null,
@@ -31515,10 +31515,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "ginco-enterprise-indexer-hoodi",
+            "slug": "ginco-enterprise-indexer-testnet",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -31569,10 +31569,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "ginco-enterprise-recent-state-hoodi",
+            "slug": "ginco-enterprise-recent-state-testnet",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -31623,10 +31623,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "goldrush-enterprise-indexer-hoodi",
+            "slug": "goldrush-enterprise-indexer-testnet",
             "provider": "Covalent",
             "offer": null,
             "actionButtons": null,
@@ -31666,10 +31666,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "goldsky-enterprise-indexer-hoodi",
+            "slug": "goldsky-enterprise-indexer-testnet",
             "provider": "Goldsky",
             "offer": null,
             "actionButtons": null,
@@ -31721,10 +31721,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "indexing-co-enterprise-indexer-hoodi",
+            "slug": "indexing-co-enterprise-indexer-testnet",
             "provider": "The Indexing Company",
             "offer": null,
             "actionButtons": [
@@ -31781,10 +31781,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "infstones-enterprise-full-archive-hoodi",
+            "slug": "infstones-enterprise-full-archive-testnet",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -31839,10 +31839,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "infstones-enterprise-recent-state-hoodi",
+            "slug": "infstones-enterprise-recent-state-testnet",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -31897,10 +31897,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "infura-enterprise-full-archive-hoodi",
+            "slug": "infura-enterprise-full-archive-testnet",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -31947,10 +31947,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "infura-enterprise-recent-state-hoodi",
+            "slug": "infura-enterprise-recent-state-testnet",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -31997,10 +31997,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "mobula-enterprise-indexer-hoodi",
+            "slug": "mobula-enterprise-indexer-testnet",
             "provider": "Mobula",
             "offer": null,
             "actionButtons": null,
@@ -32046,10 +32046,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "moralis-enterprise-full-archive-hoodi",
+            "slug": "moralis-enterprise-full-archive-testnet",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -32102,10 +32102,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "moralis-indexer-enterprise-hoodi",
+            "slug": "moralis-indexer-enterprise-testnet",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -32159,10 +32159,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "node-real-semita-hoodi",
+            "slug": "node-real-semita-testnet",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -32220,10 +32220,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "node-real-semita-full-archive-hoodi",
+            "slug": "node-real-semita-full-archive-testnet",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -32281,10 +32281,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "node-real-semita-recent-state-hoodi",
+            "slug": "node-real-semita-recent-state-testnet",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -32342,10 +32342,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "nownodes-custom-recent-state-hoodi",
+            "slug": "nownodes-custom-recent-state-testnet",
             "provider": "Nownodes",
             "offer": null,
             "actionButtons": [
@@ -32388,10 +32388,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "omnia-enterprise-recent-state-hoodi",
+            "slug": "omnia-enterprise-recent-state-testnet",
             "provider": "Omnia",
             "offer": null,
             "actionButtons": [
@@ -32444,10 +32444,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "onfinality-enterprise-full-archive-hoodi",
+            "slug": "onfinality-enterprise-full-archive-testnet",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -32497,10 +32497,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "onfinality-enterprise-trace-hoodi",
+            "slug": "onfinality-enterprise-trace-testnet",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -32550,10 +32550,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "onfinality-partner-plan-indexer-hoodi",
+            "slug": "onfinality-partner-plan-indexer-testnet",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -32603,10 +32603,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "quicknode-enterprise-full-archive-hoodi",
+            "slug": "quicknode-enterprise-full-archive-testnet",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -32662,10 +32662,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "quicknode-enterprise-recent-state-hoodi",
+            "slug": "quicknode-enterprise-recent-state-testnet",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -32721,10 +32721,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "radiumblock-enterprise-recent-state-hoodi",
+            "slug": "radiumblock-enterprise-recent-state-testnet",
             "provider": "RadiumBlock",
             "offer": null,
             "actionButtons": [
@@ -32765,10 +32765,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "rpcfast-enterprise-full-archive-hoodi",
+            "slug": "rpcfast-enterprise-full-archive-testnet",
             "provider": "RPCFast",
             "offer": null,
             "actionButtons": [
@@ -32816,10 +32816,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "tatum-business-full-archive-hoodi",
+            "slug": "tatum-business-full-archive-testnet",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -32871,10 +32871,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "tatum-business-recent-state-hoodi",
+            "slug": "tatum-business-recent-state-testnet",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -32926,10 +32926,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "tenderly-enterprise-recent-state-hoodi",
+            "slug": "tenderly-enterprise-recent-state-testnet",
             "provider": "Tenderly",
             "offer": null,
             "actionButtons": [
@@ -32976,10 +32976,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "thegraph-enterprise-indexer-hoodi",
+            "slug": "thegraph-enterprise-indexer-testnet",
             "provider": "The Graph",
             "offer": null,
             "actionButtons": null,
@@ -33020,10 +33020,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "thirdweb-enterprise-indexer-hoodi",
+            "slug": "thirdweb-enterprise-indexer-testnet",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": null,
@@ -33072,10 +33072,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "thirdweb-enterprise-recent-state-hoodi",
+            "slug": "thirdweb-enterprise-recent-state-testnet",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": [
@@ -33110,10 +33110,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "validation-cloud-private-full-archive-hoodi",
+            "slug": "validation-cloud-private-full-archive-testnet",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -33161,10 +33161,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "validation-cloud-private-recent-state-hoodi",
+            "slug": "validation-cloud-private-recent-state-testnet",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -33212,10 +33212,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "watchdata-custom-full-archive-hoodi",
+            "slug": "watchdata-custom-full-archive-testnet",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -33262,10 +33262,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
-            "slug": "watchdata-custom-recent-state-hoodi",
+            "slug": "watchdata-custom-recent-state-testnet",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -33312,7 +33312,7 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "hoodi"
+            "chain": "testnet"
         },
         {
             "slug": "1rpc-enterprise-recent-state-sepolia",
@@ -39823,7 +39823,7 @@
             "chain": "mainnet"
         },
         {
-            "slug": "1rpc-enterprise-recent-state-testnet",
+            "slug": "1rpc-enterprise-recent-state-hoodi",
             "provider": "1rpc",
             "offer": null,
             "actionButtons": [
@@ -39871,10 +39871,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "alchemy-enterprise-full-archive-testnet",
+            "slug": "alchemy-enterprise-full-archive-hoodi",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -39929,10 +39929,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "alchemy-enterprise-recent-state-testnet",
+            "slug": "alchemy-enterprise-recent-state-hoodi",
             "provider": "Alchemy",
             "offer": null,
             "actionButtons": [
@@ -39987,10 +39987,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "allthatnode-business-full-archive-testnet",
+            "slug": "allthatnode-business-full-archive-hoodi",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -40043,10 +40043,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "allthatnode-business-recent-state-testnet",
+            "slug": "allthatnode-business-recent-state-hoodi",
             "provider": "AllThatNode",
             "offer": null,
             "actionButtons": [
@@ -40099,10 +40099,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "ankr-enterprise-full-archive-testnet",
+            "slug": "ankr-enterprise-full-archive-hoodi",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -40152,10 +40152,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "ankr-enterprise-recent-state-testnet",
+            "slug": "ankr-enterprise-recent-state-hoodi",
             "provider": "Ankr",
             "offer": null,
             "actionButtons": [
@@ -40205,10 +40205,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "bitquery-commercial-indexer-testnet",
+            "slug": "bitquery-commercial-indexer-hoodi",
             "provider": "Bitquery",
             "offer": null,
             "actionButtons": [
@@ -40261,10 +40261,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "blockdaemon-enterprise-full-archive-testnet",
+            "slug": "blockdaemon-enterprise-full-archive-hoodi",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -40317,10 +40317,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "blockdaemon-enterprise-recent-state-testnet",
+            "slug": "blockdaemon-enterprise-recent-state-hoodi",
             "provider": "Blockdaemon",
             "offer": null,
             "actionButtons": [
@@ -40373,10 +40373,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "blockpi-enterprise-full-archive-testnet",
+            "slug": "blockpi-enterprise-full-archive-hoodi",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -40425,10 +40425,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "blockpi-enterprise-recent-state-testnet",
+            "slug": "blockpi-enterprise-recent-state-hoodi",
             "provider": "BlockPi",
             "offer": null,
             "actionButtons": [
@@ -40473,10 +40473,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "blockvision-enterprise-full-archive-testnet",
+            "slug": "blockvision-enterprise-full-archive-hoodi",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -40524,10 +40524,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "blockvision-enterprise-indexer-testnet",
+            "slug": "blockvision-enterprise-indexer-hoodi",
             "provider": "BlockVision",
             "offer": null,
             "actionButtons": [
@@ -40575,10 +40575,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "chainbase-enterprise-custom-testnet",
+            "slug": "chainbase-enterprise-custom-hoodi",
             "provider": "Chainbase",
             "offer": null,
             "actionButtons": [
@@ -40636,10 +40636,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "chainstack-enterprise-full-archive-testnet",
+            "slug": "chainstack-enterprise-full-archive-hoodi",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -40692,10 +40692,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "chainstack-enterprise-recent-state-testnet",
+            "slug": "chainstack-enterprise-recent-state-hoodi",
             "provider": "Chainstack",
             "offer": null,
             "actionButtons": [
@@ -40747,10 +40747,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "crypto-apis-enterprise-full-archive-testnet",
+            "slug": "crypto-apis-enterprise-full-archive-hoodi",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -40802,10 +40802,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "crypto-apis-enterprise-recent-state-testnet",
+            "slug": "crypto-apis-enterprise-recent-state-hoodi",
             "provider": "Crypto APIs",
             "offer": null,
             "actionButtons": [
@@ -40857,10 +40857,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "drpc-enterprise-full-archive-testnet",
+            "slug": "drpc-enterprise-full-archive-hoodi",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -40913,10 +40913,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "drpc-enterprise-recent-state-testnet",
+            "slug": "drpc-enterprise-recent-state-hoodi",
             "provider": "dRPC",
             "offer": null,
             "actionButtons": [
@@ -40969,10 +40969,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "dwellir-enterprise-full-archive-testnet",
+            "slug": "dwellir-enterprise-full-archive-hoodi",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -41013,10 +41013,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "dwellir-enterprise-recent-state-testnet",
+            "slug": "dwellir-enterprise-recent-state-hoodi",
             "provider": "Dwellir",
             "offer": null,
             "actionButtons": [
@@ -41057,10 +41057,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "envio-dedicated-indexer-testnet",
+            "slug": "envio-dedicated-indexer-hoodi",
             "provider": "Envio",
             "offer": null,
             "actionButtons": null,
@@ -41118,10 +41118,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "getblock-enterprise-full-archive-testnet",
+            "slug": "getblock-enterprise-full-archive-hoodi",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -41172,10 +41172,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "getblock-enterprise-recent-state-testnet",
+            "slug": "getblock-enterprise-recent-state-hoodi",
             "provider": "GetBlock",
             "offer": null,
             "actionButtons": [
@@ -41226,10 +41226,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "ghostgraph-enterprise-indexer-testnet",
+            "slug": "ghostgraph-enterprise-indexer-hoodi",
             "provider": "GhostGraph",
             "offer": null,
             "actionButtons": null,
@@ -41277,10 +41277,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "ginco-enterprise-indexer-testnet",
+            "slug": "ginco-enterprise-indexer-hoodi",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -41331,10 +41331,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "ginco-enterprise-recent-state-testnet",
+            "slug": "ginco-enterprise-recent-state-hoodi",
             "provider": "Ginco",
             "offer": null,
             "actionButtons": [
@@ -41385,10 +41385,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "goldrush-enterprise-indexer-testnet",
+            "slug": "goldrush-enterprise-indexer-hoodi",
             "provider": "Covalent",
             "offer": null,
             "actionButtons": null,
@@ -41428,10 +41428,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "goldsky-enterprise-indexer-testnet",
+            "slug": "goldsky-enterprise-indexer-hoodi",
             "provider": "Goldsky",
             "offer": null,
             "actionButtons": null,
@@ -41483,10 +41483,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "indexing-co-enterprise-indexer-testnet",
+            "slug": "indexing-co-enterprise-indexer-hoodi",
             "provider": "The Indexing Company",
             "offer": null,
             "actionButtons": [
@@ -41543,10 +41543,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "infstones-enterprise-full-archive-testnet",
+            "slug": "infstones-enterprise-full-archive-hoodi",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -41601,10 +41601,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "infstones-enterprise-recent-state-testnet",
+            "slug": "infstones-enterprise-recent-state-hoodi",
             "provider": "InfStones",
             "offer": null,
             "actionButtons": [
@@ -41659,10 +41659,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "infura-enterprise-full-archive-testnet",
+            "slug": "infura-enterprise-full-archive-hoodi",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -41709,10 +41709,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "infura-enterprise-recent-state-testnet",
+            "slug": "infura-enterprise-recent-state-hoodi",
             "provider": "Infura",
             "offer": null,
             "actionButtons": [
@@ -41759,10 +41759,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "mobula-enterprise-indexer-testnet",
+            "slug": "mobula-enterprise-indexer-hoodi",
             "provider": "Mobula",
             "offer": null,
             "actionButtons": null,
@@ -41808,10 +41808,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "moralis-enterprise-full-archive-testnet",
+            "slug": "moralis-enterprise-full-archive-hoodi",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -41864,10 +41864,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "moralis-indexer-enterprise-testnet",
+            "slug": "moralis-indexer-enterprise-hoodi",
             "provider": "Moralis",
             "offer": null,
             "actionButtons": [
@@ -41921,10 +41921,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "node-real-semita-testnet",
+            "slug": "node-real-semita-hoodi",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -41982,10 +41982,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "node-real-semita-full-archive-testnet",
+            "slug": "node-real-semita-full-archive-hoodi",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -42043,10 +42043,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "node-real-semita-recent-state-testnet",
+            "slug": "node-real-semita-recent-state-hoodi",
             "provider": "NodeReal",
             "offer": null,
             "actionButtons": [
@@ -42104,10 +42104,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "nownodes-custom-recent-state-testnet",
+            "slug": "nownodes-custom-recent-state-hoodi",
             "provider": "Nownodes",
             "offer": null,
             "actionButtons": [
@@ -42150,10 +42150,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "omnia-enterprise-recent-state-testnet",
+            "slug": "omnia-enterprise-recent-state-hoodi",
             "provider": "Omnia",
             "offer": null,
             "actionButtons": [
@@ -42206,10 +42206,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "onfinality-enterprise-full-archive-testnet",
+            "slug": "onfinality-enterprise-full-archive-hoodi",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -42259,10 +42259,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "onfinality-enterprise-trace-testnet",
+            "slug": "onfinality-enterprise-trace-hoodi",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -42312,10 +42312,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "onfinality-partner-plan-indexer-testnet",
+            "slug": "onfinality-partner-plan-indexer-hoodi",
             "provider": "OnFinality",
             "offer": null,
             "actionButtons": [
@@ -42365,10 +42365,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "quicknode-enterprise-full-archive-testnet",
+            "slug": "quicknode-enterprise-full-archive-hoodi",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -42424,10 +42424,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "quicknode-enterprise-recent-state-testnet",
+            "slug": "quicknode-enterprise-recent-state-hoodi",
             "provider": "QuickNode",
             "offer": null,
             "actionButtons": [
@@ -42483,10 +42483,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "radiumblock-enterprise-recent-state-testnet",
+            "slug": "radiumblock-enterprise-recent-state-hoodi",
             "provider": "RadiumBlock",
             "offer": null,
             "actionButtons": [
@@ -42527,10 +42527,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "rpcfast-enterprise-full-archive-testnet",
+            "slug": "rpcfast-enterprise-full-archive-hoodi",
             "provider": "RPCFast",
             "offer": null,
             "actionButtons": [
@@ -42578,10 +42578,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "tatum-business-full-archive-testnet",
+            "slug": "tatum-business-full-archive-hoodi",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -42633,10 +42633,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "tatum-business-recent-state-testnet",
+            "slug": "tatum-business-recent-state-hoodi",
             "provider": "Tatum",
             "offer": null,
             "actionButtons": [
@@ -42688,10 +42688,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "tenderly-enterprise-recent-state-testnet",
+            "slug": "tenderly-enterprise-recent-state-hoodi",
             "provider": "Tenderly",
             "offer": null,
             "actionButtons": [
@@ -42738,10 +42738,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "thegraph-enterprise-indexer-testnet",
+            "slug": "thegraph-enterprise-indexer-hoodi",
             "provider": "The Graph",
             "offer": null,
             "actionButtons": null,
@@ -42782,10 +42782,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "thirdweb-enterprise-indexer-testnet",
+            "slug": "thirdweb-enterprise-indexer-hoodi",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": null,
@@ -42834,10 +42834,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "thirdweb-enterprise-recent-state-testnet",
+            "slug": "thirdweb-enterprise-recent-state-hoodi",
             "provider": "Thirdweb",
             "offer": null,
             "actionButtons": [
@@ -42872,10 +42872,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "validation-cloud-private-full-archive-testnet",
+            "slug": "validation-cloud-private-full-archive-hoodi",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -42923,10 +42923,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "validation-cloud-private-recent-state-testnet",
+            "slug": "validation-cloud-private-recent-state-hoodi",
             "provider": "Validation Cloud",
             "offer": null,
             "actionButtons": [
@@ -42974,10 +42974,10 @@
             "additionalFeatures": null,
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "watchdata-custom-full-archive-testnet",
+            "slug": "watchdata-custom-full-archive-hoodi",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -43024,10 +43024,10 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         },
         {
-            "slug": "watchdata-custom-recent-state-testnet",
+            "slug": "watchdata-custom-recent-state-hoodi",
             "provider": "WatchData",
             "offer": null,
             "actionButtons": [
@@ -43074,7 +43074,7 @@
             ],
             "address": null,
             "tag": null,
-            "chain": "testnet"
+            "chain": "hoodi"
         }
     ],
     "ramps": [
@@ -45904,7 +45904,7 @@
                 "icon": "lucide:ExternalLink",
                 "description": "Off-chain metadata link (IPFS/HTTPS).",
                 "filter": null,
-                "sorting": null,
+                "sorting": "arrayLength",
                 "pinning": null,
                 "cellType": "link",
                 "group": "identity"
@@ -45915,7 +45915,7 @@
                 "icon": null,
                 "description": "Type of the Agent URI (ipfs, https, etc.).",
                 "filter": "select",
-                "sorting": "string",
+                "sorting": "arrayLength",
                 "pinning": null,
                 "cellType": null,
                 "group": "identity"
@@ -45925,8 +45925,8 @@
                 "label": "Agent Wallet",
                 "icon": "lucide:Wallet",
                 "description": "Wallet address associated with the agent.",
-                "filter": null,
-                "sorting": null,
+                "filter": "searchableMultiSelect",
+                "sorting": "arrayLength",
                 "pinning": null,
                 "cellType": "address",
                 "group": "identity"
@@ -45938,8 +45938,8 @@
                 "description": "Agent name from ERC-8004 registration file (agentURI).",
                 "filter": "searchableMultiSelect",
                 "sorting": "string",
-                "pinning": null,
-                "cellType": null,
+                "pinning": "left",
+                "cellType": "agent",
                 "group": "identity"
             },
             "image": {
@@ -45981,7 +45981,7 @@
                 "icon": "lucide:FileKey",
                 "description": "ERC-8004 Identity Registry contract address.",
                 "filter": "searchableMultiSelect",
-                "sorting": null,
+                "sorting": "string",
                 "pinning": null,
                 "cellType": "address",
                 "group": "identity"
@@ -45992,7 +45992,7 @@
                 "icon": "lucide:Star",
                 "description": "ERC-8004 Reputation Registry contract address.",
                 "filter": "searchableMultiSelect",
-                "sorting": null,
+                "sorting": "string",
                 "pinning": null,
                 "cellType": "address",
                 "group": "identity"
@@ -46013,7 +46013,7 @@
                 "label": "Active Feedback",
                 "icon": "lucide:MessageSquareCheck",
                 "description": "Number of non-revoked feedback entries.",
-                "filter": null,
+                "filter": "range",
                 "sorting": "number",
                 "pinning": null,
                 "cellType": null,
@@ -46025,9 +46025,9 @@
                 "icon": "lucide:TrendingUp",
                 "description": "Average reputation rating from active feedback.",
                 "filter": "range",
-                "sorting": "number",
+                "sorting": "string",
                 "pinning": null,
-                "cellType": null,
+                "cellType": "numericRange",
                 "group": "identity"
             },
             "registeredAt": {
@@ -46035,7 +46035,7 @@
                 "label": "Registered At",
                 "icon": "lucide:CalendarPlus",
                 "description": "Unix timestamp when the agent was registered on-chain.",
-                "filter": null,
+                "filter": "dateRange",
                 "sorting": "number",
                 "pinning": null,
                 "cellType": null,
@@ -46046,7 +46046,7 @@
                 "label": "Updated At",
                 "icon": "lucide:CalendarClock",
                 "description": "Unix timestamp of the last on-chain update.",
-                "filter": null,
+                "filter": "dateRange",
                 "sorting": "number",
                 "pinning": null,
                 "cellType": null,
