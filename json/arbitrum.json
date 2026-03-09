@@ -52373,7 +52373,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 9,
+            "rank": 10,
             "registeredAt": 1770301717,
             "updatedAt": 1770301717,
             "starred": false
@@ -52400,7 +52400,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 10,
+            "rank": 11,
             "registeredAt": 1770304716,
             "updatedAt": 1770304716,
             "starred": false
@@ -52427,7 +52427,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 11,
+            "rank": 12,
             "registeredAt": 1770309378,
             "updatedAt": 1770309378,
             "starred": false
@@ -52454,7 +52454,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 12,
+            "rank": 13,
             "registeredAt": 1770325955,
             "updatedAt": 1770325955,
             "starred": false
@@ -52481,7 +52481,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 13,
+            "rank": 14,
             "registeredAt": 1770363089,
             "updatedAt": 1770370706,
             "starred": false
@@ -52508,7 +52508,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 14,
+            "rank": 15,
             "registeredAt": 1770364726,
             "updatedAt": 1770365429,
             "starred": false
@@ -52536,7 +52536,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 15,
+            "rank": 16,
             "registeredAt": 1770376109,
             "updatedAt": 1770376109,
             "starred": false
@@ -52564,7 +52564,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 16,
+            "rank": 17,
             "registeredAt": 1770378759,
             "updatedAt": 1770378759,
             "starred": false
@@ -52589,7 +52589,7 @@
             "totalFeedbackCount": 0,
             "activeFeedbackCount": 0,
             "averageRating": "0",
-            "rank": 17,
+            "rank": 18,
             "registeredAt": 1770386468,
             "updatedAt": 1770386693,
             "starred": false
@@ -52615,12 +52615,12 @@
             "chain": "arbitrum",
             "identityRegistry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
             "reputationRegistry": "0x8004BAa17C55a88189AE136b182e5fdA19dE9b63",
-            "totalFeedbackCount": 0,
-            "activeFeedbackCount": 0,
-            "averageRating": "0",
-            "rank": 18,
+            "totalFeedbackCount": 2,
+            "activeFeedbackCount": 2,
+            "averageRating": "100",
+            "rank": 4,
             "registeredAt": 1770386555,
-            "updatedAt": 1770610349,
+            "updatedAt": 1773018751,
             "starred": false
         },
         {
@@ -66940,7 +66940,7 @@
             "totalFeedbackCount": 5,
             "activeFeedbackCount": 5,
             "averageRating": "87.8",
-            "rank": 4,
+            "rank": 5,
             "registeredAt": 1772322795,
             "updatedAt": 1772323234,
             "starred": false
@@ -66994,7 +66994,7 @@
             "totalFeedbackCount": 5,
             "activeFeedbackCount": 5,
             "averageRating": "87.4",
-            "rank": 5,
+            "rank": 6,
             "registeredAt": 1772322802,
             "updatedAt": 1772323270,
             "starred": false
@@ -67048,7 +67048,7 @@
             "totalFeedbackCount": 5,
             "activeFeedbackCount": 5,
             "averageRating": "34.2",
-            "rank": 7,
+            "rank": 8,
             "registeredAt": 1772322810,
             "updatedAt": 1772323306,
             "starred": false
@@ -67075,7 +67075,7 @@
             "totalFeedbackCount": 5,
             "activeFeedbackCount": 5,
             "averageRating": "44.2",
-            "rank": 6,
+            "rank": 7,
             "registeredAt": 1772322814,
             "updatedAt": 1772323325,
             "starred": false
@@ -67102,7 +67102,7 @@
             "totalFeedbackCount": 5,
             "activeFeedbackCount": 5,
             "averageRating": "23.8",
-            "rank": 8,
+            "rank": 9,
             "registeredAt": 1772322818,
             "updatedAt": 1772323345,
             "starred": false
@@ -68619,6 +68619,31 @@
             "rank": 622,
             "registeredAt": 1773004559,
             "updatedAt": 1773004559,
+            "starred": false
+        },
+        {
+            "slug": "erc8004-agent-622",
+            "offer": "xiaohan_fund",
+            "name": "xiaohan_fund",
+            "description": null,
+            "image": null,
+            "active": true,
+            "supportedTrust": null,
+            "registrationType": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+            "agentId": 622,
+            "owner": "0xd3f9dcd6011e1aa13eeb277d9ce5f2f7c9bb6070",
+            "agentURI": "data:application/json;base64,eyJ0eXBlIjoiaHR0cHM6Ly9laXBzLmV0aGVyZXVtLm9yZy9FSVBTL2VpcC04MDA0I3JlZ2lzdHJhdGlvbi12MSIsIm5hbWUiOiJ4aWFvaGFuX2Z1bmQiLCJkZXNjcmlwdGlvbiI6IiIsImltYWdlIjoiIiwic2VydmljZXMiOlt7Im5hbWUiOiJ0aWx0LXByb3RvY29sIiwiZW5kcG9pbnQiOiJodHRwczovL3RpbHRwcm90b2NvbC5jb20ifV0sInJlZ2lzdHJhdGlvbnMiOltdLCJhY3RpdmUiOnRydWV9",
+            "agentURIType": "data",
+            "agentWallet": "0xd3f9dcd6011e1aa13eeb277d9ce5f2f7c9bb6070",
+            "chain": "arbitrum",
+            "identityRegistry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+            "reputationRegistry": "0x8004BAa17C55a88189AE136b182e5fdA19dE9b63",
+            "totalFeedbackCount": 0,
+            "activeFeedbackCount": 0,
+            "averageRating": "0",
+            "rank": 623,
+            "registeredAt": 1773021756,
+            "updatedAt": 1773021756,
             "starred": false
         }
     ]
